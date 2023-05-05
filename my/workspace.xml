@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac37df7-1808-4f49-9a6c-18115383b356" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/MainMusic/AudioPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/MainMusic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/MainMusic/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/MainMusic/SongNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/PlaylistDetailsPackage/PlaylistDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/PlaylistDetailsPackage/PlaylistDetails_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/PlaylistPackage/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/PlaylistPackage/Playlist_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/PlaylistPackage/Playlist_implInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/SongPackage/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/SongPackage/Song_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/UserPackage/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullPackage/UserPackage/User_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FullPackage/MainMusic/AudioPlayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FullPackage/SongPackage/Song_implTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FullPackage/UserPackage/User_implTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JjLoYbpD3r0XMECnfmc0mDpU6Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_opened_file_path": "E:/NIIT_Full stack/Back-End/Course-14/Sprint-1/demos/demo1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15862069",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NIIT_Full stack\Core Java\COURSE 7-Capstone Project\C7_capstone_project_jukebox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\NIIT_Full stack\Core Java\COURSE 7-Capstone Project\C7_capstone_project_jukebox\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="FullPackage.MainMusic" />
+      <recent name="FullPackage.PlaylistPackage" />
+      <recent name="FullPackage.PlaylistDetailsPackage" />
+      <recent name="FullPackage.UserPackage" />
+      <recent name="FullPackage.DatabasePackage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AudioPlayTest.testPlay">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FullPackage.MainMusic.Main" />
+      <module name="C7_capstone_project_jukebox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FullPackage.MainMusic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AudioPlayTest.testPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C7_capstone_project_jukebox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FullPackage.MainMusic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FullPackage.MainMusic" />
+      <option name="MAIN_CLASS_NAME" value="FullPackage.MainMusic.AudioPlayTest" />
+      <option name="METHOD_NAME" value="testPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AudioPlayTest.testResumeAudio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C7_capstone_project_jukebox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FullPackage.MainMusic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FullPackage.MainMusic" />
+      <option name="MAIN_CLASS_NAME" value="FullPackage.MainMusic.AudioPlayTest" />
+      <option name="METHOD_NAME" value="testResumeAudio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Song_implTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C7_capstone_project_jukebox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FullPackage.SongPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FullPackage.SongPackage" />
+      <option name="MAIN_CLASS_NAME" value="FullPackage.SongPackage.Song_implTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Song_implTest.displayFromList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C7_capstone_project_jukebox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FullPackage.SongPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FullPackage.SongPackage" />
+      <option name="MAIN_CLASS_NAME" value="FullPackage.SongPackage.Song_implTest" />
+      <option name="METHOD_NAME" value="displayFromList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AudioPlayTest.testPlay" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AudioPlayTest.testResumeAudio" />
+        <item itemvalue="JUnit.Song_implTest" />
+        <item itemvalue="JUnit.Song_implTest.displayFromList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac37df7-1808-4f49-9a6c-18115383b356" name="Changes" comment="" />
+      <created>1672586720506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672586720506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
